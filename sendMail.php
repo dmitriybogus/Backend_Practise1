@@ -18,6 +18,6 @@ $message .= $text6;
 echo $message;
 
 $headers = 'From: d.a.boguslavsjkyy@student.khai.edu';
-mail('semkivvaleria@gmail.com', $subject, $message, $headers);
+mail('doozzy113@gmail.com', $subject, $message, $headers);
 
 ?>
